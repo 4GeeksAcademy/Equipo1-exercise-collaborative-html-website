@@ -1,4 +1,14 @@
 
+body{
+    background: white;
+}
+
+.card-img-top {
+  height: 250px;   
+  width: 100%;     
+  object-fit: cover; 
+  object-position: top;  
+
 #fondo{
       background-image: url('../img/bg.jpg');
       background-size: cover;
