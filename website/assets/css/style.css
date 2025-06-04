@@ -1,3 +1,4 @@
+
 body{
     background: white;
 }
@@ -7,4 +8,10 @@ body{
   width: 100%;     
   object-fit: cover; 
   object-position: top;  
+
+#fondo{
+      background-image: url('../img/bg.jpg');
+      background-size: cover;
+      background-position: center bottom;
+      height: 600px;
 }
