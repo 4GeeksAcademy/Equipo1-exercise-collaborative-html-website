@@ -4,23 +4,15 @@ body {
     justify-content: center;
 }
 
+#fondo{
+      background-image: url('https://www.qcpetstudies.com/blog/wp-content/uploads/2018/04/group-of-dogs-header.jpg');
+      background-size: cover;
+      background-position: center bottom;
+      height: 600px;
+}
 .container-general {
     background-color: white;
     width: 80%;
-}
-
-.card-img-top {
-    height: 200px;
-    width: 100%;
-    object-fit: cover;
-    object-position: top;
-}
-
-#fondo {
-    background-image: url('../img/bg.jpg');
-    background-size: cover;
-    background-position: center bottom;
-    height: 600px;
 }
 
 .card-img-top {
@@ -28,13 +20,6 @@ body {
     width: 100%;
     object-fit: cover;
     object-position: top;
-}
-
-#fondo {
-    background-image: url('../img/bg.jpg');
-    background-size: cover;
-    background-position: center bottom;
-    height: 600px;
 }
 
 .circle-img {
@@ -50,4 +35,4 @@ body {
 
 .heading-muted {
     color: gray;
-}
+  }
